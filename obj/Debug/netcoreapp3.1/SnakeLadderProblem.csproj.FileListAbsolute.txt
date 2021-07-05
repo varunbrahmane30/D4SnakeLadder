@@ -1,0 +1,12 @@
+D:\Brigelabz\PracticProblem\SnakeLadderProblem\bin\Debug\netcoreapp3.1\SnakeLadderProblem.exe
+D:\Brigelabz\PracticProblem\SnakeLadderProblem\bin\Debug\netcoreapp3.1\SnakeLadderProblem.deps.json
+D:\Brigelabz\PracticProblem\SnakeLadderProblem\bin\Debug\netcoreapp3.1\SnakeLadderProblem.runtimeconfig.json
+D:\Brigelabz\PracticProblem\SnakeLadderProblem\bin\Debug\netcoreapp3.1\SnakeLadderProblem.runtimeconfig.dev.json
+D:\Brigelabz\PracticProblem\SnakeLadderProblem\bin\Debug\netcoreapp3.1\SnakeLadderProblem.dll
+D:\Brigelabz\PracticProblem\SnakeLadderProblem\bin\Debug\netcoreapp3.1\SnakeLadderProblem.pdb
+D:\Brigelabz\PracticProblem\SnakeLadderProblem\obj\Debug\netcoreapp3.1\SnakeLadderProblem.AssemblyInfoInputs.cache
+D:\Brigelabz\PracticProblem\SnakeLadderProblem\obj\Debug\netcoreapp3.1\SnakeLadderProblem.AssemblyInfo.cs
+D:\Brigelabz\PracticProblem\SnakeLadderProblem\obj\Debug\netcoreapp3.1\SnakeLadderProblem.csproj.CoreCompileInputs.cache
+D:\Brigelabz\PracticProblem\SnakeLadderProblem\obj\Debug\netcoreapp3.1\SnakeLadderProblem.dll
+D:\Brigelabz\PracticProblem\SnakeLadderProblem\obj\Debug\netcoreapp3.1\SnakeLadderProblem.pdb
+D:\Brigelabz\PracticProblem\SnakeLadderProblem\obj\Debug\netcoreapp3.1\SnakeLadderProblem.genruntimeconfig.cache

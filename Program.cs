@@ -7,6 +7,7 @@ namespace SnakeLadderProblem
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome To Snake ladder. ");
+            UC7GameWith2Palyer.play();
         }
     }
 }
