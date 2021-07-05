@@ -8,7 +8,8 @@ namespace SnakeLadderProblem
         {
             Console.WriteLine("Welcome To Snake ladder. ");
             //UC3CheckOption.playerPLayed();
-            UC4TillWinningPos.playerPLayed();
+            //UC4TillWinningPos.playerPLayed();
+            UC6CalDiceCount.playerPLayed();
         }
     }
 }
